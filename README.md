@@ -1,8 +1,8 @@
 # Canvas
 Simple collaboration drawing app, made using NextJS, React Konva and SocketIO with NextJS API Page for learning SocketIO and of course trying NextJS 13
 ## Screeshot
-![image](https://github.com/X1-Il/Canvas/assets/120943267/f05108f8-0457-4a87-af3d-d36e1b4ef3d2)
-![image](https://github.com/X1-Il/Canvas/assets/120943267/9205b8dc-0fe5-4d42-b363-1e49fb6e206b)
+
+![canvas](https://github.com/X1-Il/Canvas/assets/120943267/f4a74519-15c3-4a56-97cb-ada2ffafeb7f)
 
 ## Feature
 Currently its only have basic feature such as
